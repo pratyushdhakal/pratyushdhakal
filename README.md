@@ -6,7 +6,7 @@
 <a href="#"><img src="https://cdn.svgporn.com/logos/react.svg" style="width: 50px;"/></a>
 <a href="#"><img src="https://cdn.svgporn.com/logos/javascript.svg" style="width: 50px;"/></a>
 <a href="#"><img src="https://cdn.svgporn.com/logos/react-query-icon.svg" style="width: 50px;"/></a>
-<a href="#"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" style="width: 50px;"/></a>
+<a href="#"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" style="width: 70px;"/></a>
 <a href="#"><img src="https://cdn.svgporn.com/logos/css-3.svg" style="width: 50px;"/></a>
 <a href="#"><img src="https://cdn.svgporn.com/logos/redux.svg" style="width: 50px;"/></a>
 <a href="#"><img src="https://cdn.svgporn.com/logos/html-5.svg" style="width: 50px;"/></a>
