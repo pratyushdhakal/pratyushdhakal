@@ -1,4 +1,5 @@
 <h2>Hello, I am Pratyush Dhakal!</h1>
+<hr/>
 
 <h3>Tech Stacks</h3>
 <div style="display: flex; column-gap: 30px;">
