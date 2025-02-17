@@ -1,4 +1,4 @@
-<h1>Hello, I am Pratyush Dhakal!</h1>
+<h2>Hello, I am Pratyush Dhakal!</h1>
 
 <h3>Tech Stacks</h3>
 <div style="align: center; gap: 10px;">
