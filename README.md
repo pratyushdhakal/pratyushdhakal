@@ -1,4 +1,4 @@
-<p>Hey! I’m a React developer and soon to be a Full Stack Developer — who once spent hours exploring beautiful websites, wondering how they were made. I was always curious about what went on behind the scenes — how programmers wrote code, how transitions flowed, and how layouts adapted seamlessly to every screen.
+<p>Hey! I’m a proactive frontend (React) developer and soon to be a Full Stack Developer — who once spent hours exploring beautiful websites, wondering how they were made. I was always curious about what went on behind the scenes — how programmers wrote code, how transitions flowed, and how layouts adapted seamlessly to every screen.
 
 That curiosity turned into passion. Now, I can build the kinds of websites I used to admire.</p>
 <hr/>
