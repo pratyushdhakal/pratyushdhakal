@@ -1,4 +1,4 @@
-## About Me:
+<h1>About Me</h1>
 I am currently learning Typescript and backend development.
 
 
