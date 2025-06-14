@@ -1,7 +1,4 @@
-<p>I’m a <b>proactive frontend developer</b>, and soon-to-be <b>fullstack developer</b>, who once spent hours exploring beautiful websites — wondering how they were made. I was always curious about what happened behind the scenes — how developers wrote code, how transitions felt so smooth, and how layouts adapted perfectly to every screen.
-
-That curiosity turned into passion. Now, I’m building the kinds of websites I used to admire — with clean UI, responsive design, and thoughtful interactions.
-</p>
+<p>React developer with a background shaped by curiosity and consistency, crafting responsive interfaces with subtle, purposeful motion.</p>
 
 
 
