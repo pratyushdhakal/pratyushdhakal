@@ -5,7 +5,6 @@ That curiosity turned into passion. Now, I can build the kinds of websites I use
 
 
 <h3>Arsenal</h3>
-### Arsenal
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -21,6 +20,7 @@ That curiosity turned into passion. Now, I can build the kinds of websites I use
 ![Framer Motion](https://img.shields.io/badge/framer%20motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) 
 ![Drizzle](https://img.shields.io/badge/drizzle-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black) 
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushdhakal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
